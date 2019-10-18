@@ -18,6 +18,8 @@ public class perem {
     // Ссылочые ипы данных имеют какие то свойства, это отдельне классы
      static String st = "hi, guy";
      static char c = 'i'; // хранит только один символ
+    // КОНСТАНТЫ
+    static final int CONST = 55;
 
     public static void main(String[] args) {  // точка входа в программу
         System.out.println("byte: " + b);
@@ -41,6 +43,7 @@ public class perem {
         // Ctrl+d - дубирование строки
         System.out.println(st);
         System.out.println(c);
+        System.out.println(CONST);
 
     }
 
