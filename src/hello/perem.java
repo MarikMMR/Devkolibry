@@ -25,7 +25,13 @@ public class perem {
         System.out.println("int: " + it);
         System.out.println("long: " + l);
         System.out.println("           ");
-
+// существует 2 вида коментариев однострочный
+        /* а
+              так
+                  же
+                      многострочный
+                                    с таким вот синтаксисом
+         */
         System.out.println("float: " + fl);
         System.out.println("double: " + aDouble);
         System.out.println("            ");
