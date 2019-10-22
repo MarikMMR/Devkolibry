@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="936927de-ee9c-4004-93a3-32d666db7aa6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hello/log.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/log2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/oper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/cikl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/massiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/metod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/rekursiya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Devkolibry/hello/log2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Devkolibry/hello/log2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +45,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.log2">
-    <configuration name="log" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.log" />
+  <component name="RunManager" selected="Application.massiv">
+    <configuration name="cikl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.cikl" />
       <module name="Devkolibry" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.oper" />
+    <configuration name="massiv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.massiv" />
       <module name="Devkolibry" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="perem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.perem" />
+    <configuration name="metod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.metod" />
       <module name="Devkolibry" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="type" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.type" />
+    <configuration name="rekursiya" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.rekursiya" />
       <module name="Devkolibry" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.massiv" />
+        <item itemvalue="Application.rekursiya" />
+        <item itemvalue="Application.metod" />
+        <item itemvalue="Application.cikl" />
         <item itemvalue="Application.log2" />
-        <item itemvalue="Application.log" />
-        <item itemvalue="Application.oper" />
-        <item itemvalue="Application.type" />
-        <item itemvalue="Application.perem" />
       </list>
     </recent_temporary>
   </component>
