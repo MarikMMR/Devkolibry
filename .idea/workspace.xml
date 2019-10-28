@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="936927de-ee9c-4004-93a3-32d666db7aa6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hello/cikl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/massiv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/metod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello/rekursiya.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Devkolibry/hello/log2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Devkolibry/hello/log2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +24,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -45,9 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.massiv">
-    <configuration name="cikl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.cikl" />
+  <component name="RunManager" selected="Application.OOP1">
+    <configuration name="OOP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.OOP1" />
       <module name="Devkolibry" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="log2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.log2" />
+    <configuration name="cikl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.cikl" />
       <module name="Devkolibry" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP1" />
         <item itemvalue="Application.massiv" />
         <item itemvalue="Application.rekursiya" />
         <item itemvalue="Application.metod" />
         <item itemvalue="Application.cikl" />
-        <item itemvalue="Application.log2" />
       </list>
     </recent_temporary>
   </component>
